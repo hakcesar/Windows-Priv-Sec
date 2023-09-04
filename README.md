@@ -1,1 +1,1 @@
-# Windows-Priv-Sec
+# Enhance your Windows system's privacy and security with this user-friendly script. It effortlessly disables telemetry, the keylogger, WiFi Sense, Windows Defender Sample Reporting, and OneDrive integration in Windows Explorer. 🔒🛡️🔐
